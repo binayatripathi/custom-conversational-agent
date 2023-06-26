@@ -1,9 +1,9 @@
 import streamlit as st
 
 def main():
-    st.title("Conversational Agent")
-    st.write("Welcome to the conversational agent!")
-    user_input = st.text_input("Type your message here:")
+    st.title("CHAT WITH YOUR DOCUMENT")
+    st.write("Welcome to the personal chatbot agent that know whats in your documents!")
+    user_input = st.text_input("Ask abything about your dcouments")
     if user_input:
         st.write(f"You said: {user_input}")
 
