@@ -1,7 +1,7 @@
 import streamlit as st
 import openai
 
-opanai.apy_key = "sk-JGftaPYrPTKm8jnXAcZgT3BlbkFJzf61UE7lsdWWmM0AZdk"
+# opanai.apy_key = "sk-JGftaPYrPTKm8jnXAcZgT3BlbkFJzf61UE7lsdWWmM0AZdk"
 
 def main():
     st.title("CHAT WITH YOUR DOCUMENT")
